@@ -29,7 +29,7 @@
 - MSSQL
 - SQL MANAGEMENT
 - Swagger
-- [Postman](https://documenter.getpostman.com/view/44216110/2sB2j7cosK)
+- [Postman](https://documenter.getpostman.com/view/44216110/2sB2j7d9ew)
 
 ### Kullanılan Patternler
 
